@@ -3,3 +3,6 @@
 2. Run `npm run dev`
 3. Open http://localhost:3000
 4. Check the server console and the browser console
+
+## Reference
+https://github.com/vercel/next.js/discussions/76150
